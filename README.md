@@ -1,4 +1,4 @@
-# weatherApp
+# Weather App
 
 This project was developed as a practice during the study of parsing
 
