@@ -16,4 +16,4 @@ This project was developed as a practice during the study of parsing
 
 # Author
 - - - 
-__Denis Dedov__ - Initial stage of development - [denford-art](https://github.com/denford-art) 
+__Denis Dedov__ - Initial stage of development - [denford-art](https://github.com/denford-art)
